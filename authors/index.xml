@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Vineet Tambe</title>
+    <link>https://VineetTambe.github.io/authors/</link>
+      <atom:link href="https://VineetTambe.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Vineet Tambe © 2020</copyright>
+    <image>
+      <url>https://VineetTambe.github.io/images/icon_hu7edf5afcb0ab6e4863a8e23b03e78209_1132_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://VineetTambe.github.io/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+{
+  "name": "Vineet Tambe",
+  "short_name": "Vineet Tambe",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_hu7edf5afcb0ab6e4863a8e23b03e78209_1132_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu7edf5afcb0ab6e4863a8e23b03e78209_1132_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
