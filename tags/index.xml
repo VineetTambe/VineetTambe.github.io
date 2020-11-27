@@ -1,16 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Vineet Tambe</title>
+    <title>Tags on Vineet Tambe</title>
     <link>https://VineetTambe.github.io/tags/</link>
-      <atom:link href="https://VineetTambe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Vineet Tambe © 2020</copyright><lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://VineetTambe.github.io/images/icon_hu1607cf46d7d6aaadd720604a3687a783_17314_512x512_fill_lanczos_center_2.png</url>
-      <title>Tags</title>
-      <link>https://VineetTambe.github.io/tags/</link>
-    </image>
+    <description>Recent content in Tags on Vineet Tambe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Vineet Tambe &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://VineetTambe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo</title>
+      <link>https://VineetTambe.github.io/tag/demo/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://VineetTambe.github.io/tag/demo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

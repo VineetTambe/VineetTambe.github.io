@@ -1,16 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Vineet Tambe</title>
+    <title>Authors on Vineet Tambe</title>
     <link>https://VineetTambe.github.io/authors/</link>
-      <atom:link href="https://VineetTambe.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Vineet Tambe © 2020</copyright>
-    <image>
-      <url>https://VineetTambe.github.io/images/icon_hu1607cf46d7d6aaadd720604a3687a783_17314_512x512_fill_lanczos_center_2.png</url>
-      <title>Authors</title>
-      <link>https://VineetTambe.github.io/authors/</link>
-    </image>
+    <description>Recent content in Authors on Vineet Tambe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Vineet Tambe &amp;copy; {year}</copyright><atom:link href="https://VineetTambe.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vineet Tambe</title>
+      <link>https://VineetTambe.github.io/author/vineet-tambe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VineetTambe.github.io/author/vineet-tambe/</guid>
+      <description>Hey there! I’m an ECE by major and a Roboticist at heart. Come join me in my journey to wire the unwired :P. Currently I am working on:
+ deploying private 5G core on the cloud figuring out ways to count the number of tigers in the Sahyadri Forest using multi-drone systems - contrubution https://github.</description>
+    </item>
     
   </channel>
 </rss>
