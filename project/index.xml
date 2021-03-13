@@ -1,110 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Vineet Tambe</title>
+    <title>Projects | Vineet Tambe</title>
     <link>https://VineetTambe.github.io/project/</link>
-    <description>Recent content in Projects on Vineet Tambe</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Vineet Tambe &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://VineetTambe.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://VineetTambe.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Vineet Tambe © 2021</copyright><lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://VineetTambe.github.io/images/icon_hu1607cf46d7d6aaadd720604a3687a783_17314_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://VineetTambe.github.io/project/</link>
+    </image>
+    
     <item>
       <title>Robocon &#39;20</title>
       <link>https://VineetTambe.github.io/project/robocon2020/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://VineetTambe.github.io/project/robocon2020/</guid>
-      <description>Watch these videos!! These are the robots I have worked on, a pair of bots which play rugby.</description>
+      <description></description>
     </item>
     
     <item>
       <title>img2sonnet</title>
       <link>https://VineetTambe.github.io/project/img2sonnet/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://VineetTambe.github.io/project/img2sonnet/</guid>
-      <description>A multimodel transfer learning approach towards sonnet generaetion from images.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Integrated System COVID-19</title>
       <link>https://VineetTambe.github.io/project/integrated-system-for-covid-19/</link>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://VineetTambe.github.io/project/integrated-system-for-covid-19/</guid>
-      <description>Detection of Mask, barcode, temperature, and sanitizer dispenser.</description>
+      <description></description>
     </item>
     
     <item>
       <title>warehouse optimization</title>
       <link>https://VineetTambe.github.io/project/warehouse-optimization/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://VineetTambe.github.io/project/warehouse-optimization/</guid>
-      <description>Optimized restocking of warehouse using machine learning and monitoring the warehouse state using IoT.</description>
+      <description></description>
     </item>
     
     <item>
       <title>COVID-19 case predictions &#43; more.</title>
       <link>https://VineetTambe.github.io/project/analysis-of-healthcare-infrastructure/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://VineetTambe.github.io/project/analysis-of-healthcare-infrastructure/</guid>
-      <description>Analyzing the supply of human resources and infrastructure to handle COVID-19 Cases using ARIMA model of accuracy 98.58%</description>
+      <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
       <link>https://VineetTambe.github.io/project/machine-learning/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://VineetTambe.github.io/project/machine-learning/</guid>
-      <description>These are few of popular Machine Learning projects implemented by me. Feel free to take a look.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Tazer</title>
       <link>https://VineetTambe.github.io/project/tazer/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://VineetTambe.github.io/project/tazer/</guid>
-      <description>Electric Tazer gun for women safety.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Robocon &#39;19</title>
       <link>https://VineetTambe.github.io/project/robocon2019/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://VineetTambe.github.io/project/robocon2019/</guid>
-      <description>Watch these videos!! These are the robots I have worked on, a quadrupedes and a 4WD.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Rock Paper Scissors</title>
       <link>https://VineetTambe.github.io/project/rock-paper-scissors/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://VineetTambe.github.io/project/rock-paper-scissors/</guid>
-      <description>A simple in terminal Rock Paper Scissors Game!  A python executable file! just download and play, no need to install anything else!!</description>
+      <description></description>
     </item>
     
     <item>
       <title>Block-Game</title>
       <link>https://VineetTambe.github.io/project/block-game/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://VineetTambe.github.io/project/block-game/</guid>
-      <description>Doge the falling blocks! A python executable file! just download and play, no need to install anything else!!</description>
+      <description></description>
     </item>
     
     <item>
       <title>Stegnography in Java</title>
       <link>https://VineetTambe.github.io/project/steganography-in-java/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://VineetTambe.github.io/project/steganography-in-java/</guid>
-      <description>Data hiding in color images.</description>
+      <description></description>
     </item>
     
   </channel>
