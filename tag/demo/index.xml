@@ -5,12 +5,20 @@
     <link>https://VineetTambe.github.io/tag/demo/</link>
       <atom:link href="https://VineetTambe.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Vineet Tambe © 2021</copyright><lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Vineet Tambe © 2021</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://VineetTambe.github.io/images/icon_hu1607cf46d7d6aaadd720604a3687a783_17314_512x512_fill_lanczos_center_2.png</url>
       <title>Demo</title>
       <link>https://VineetTambe.github.io/tag/demo/</link>
     </image>
+    
+    <item>
+      <title>Low latency health monitoring system using Amazon-Wavelength and Verizon-5G</title>
+      <link>https://VineetTambe.github.io/project/low_latency_5g_aws/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://VineetTambe.github.io/project/low_latency_5g_aws/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robocon &#39;20</title>

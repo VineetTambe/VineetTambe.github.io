@@ -5,12 +5,28 @@
     <link>https://VineetTambe.github.io/</link>
       <atom:link href="https://VineetTambe.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Vineet Tambe</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Vineet Tambe © 2021</copyright><lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Vineet Tambe © 2021</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://VineetTambe.github.io/images/icon_hu1607cf46d7d6aaadd720604a3687a783_17314_512x512_fill_lanczos_center_2.png</url>
       <title>Vineet Tambe</title>
       <link>https://VineetTambe.github.io/</link>
     </image>
+    
+    <item>
+      <title>Low latency health monitoring system using Amazon-Wavelength and Verizon-5G</title>
+      <link>https://VineetTambe.github.io/project/low_latency_5g_aws/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://VineetTambe.github.io/project/low_latency_5g_aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data for Sustainable Comunity: Chapter 8 &amp; 9</title>
+      <link>https://VineetTambe.github.io/publication/covid19_chapter/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://VineetTambe.github.io/publication/covid19_chapter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robocon &#39;20</title>
@@ -116,6 +132,14 @@
       <guid>https://VineetTambe.github.io/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Analzing the Supply of Healthcare Human Resource and Infrastructure of India to Handle COVID-19 cases aand Building a Prediction Model</title>
+      <link>https://VineetTambe.github.io/publication/covid19_paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://VineetTambe.github.io/publication/covid19_paper/</guid>
+      <description></description>
     </item>
     
   </channel>
